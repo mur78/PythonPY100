@@ -14,7 +14,7 @@ files:
     status: Solved
     encrypted_possible_answer: 0
   - offset: 96
-    length: 54
+    length: 56
     placeholder_text: |-
       ...:  # TODO диапазон чисел
               ...
@@ -27,7 +27,7 @@ files:
     encrypted_possible_answer: |-
       range(10):
               sum_ += number
-  - offset: 156
+  - offset: 158
     length: 21
     placeholder_text: '# TODO печатаем ответ'
     initial_state:
@@ -57,5 +57,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 13 Oct 2021 17:46:24 UTC
+  time: Thu, 14 Oct 2021 19:43:21 UTC
 record: -1

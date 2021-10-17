@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 164
-    length: 244
+    length: 34
     placeholder_text: '# TODO Распечатать строку лесенкой'
     initial_state:
       length: 34
@@ -28,7 +28,7 @@ files:
 status: Failed
 feedback:
   message: Incorrect
-  time: Wed, 13 Oct 2021 17:59:00 UTC
+  time: Sun, 17 Oct 2021 14:55:49 UTC
   actual: "     H\n      e\n       l\n        l\n         o\n          ,\n       \
     \     \n            W\n             o\n              r\n               l\n   \
     \             d\n"

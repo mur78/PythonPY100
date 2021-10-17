@@ -10,8 +10,8 @@ files:
       length: 36
       offset: 9
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: print(sum(range(1, N + 1)))
   text: |
     N = 100
@@ -26,5 +26,8 @@ files:
   text: |
     5050
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 14 Oct 2021 19:50:36 UTC
 record: -1

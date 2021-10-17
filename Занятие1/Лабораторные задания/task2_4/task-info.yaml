@@ -3,15 +3,15 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 0
-    length: 41
+  - offset: 1
+    length: 86
     placeholder_text: '...  # TODO найти сумму натуральных чисел'
     initial_state:
       length: 41
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: print(sum(range(-10, 21, 2)))
   text: |
     ...  # TODO найти сумму натуральных чисел
@@ -24,5 +24,8 @@ files:
   text: |
     80
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 17 Oct 2021 14:23:22 UTC
 record: -1

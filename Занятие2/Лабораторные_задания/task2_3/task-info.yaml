@@ -9,14 +9,14 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 576
+  - offset: 575
     length: 38
     placeholder_text: '# TODO распечатать фамилии и их номера'
     initial_state:
       length: 38
       offset: 576
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Failed
     encrypted_possible_answer: '# TODO'
   text: |
@@ -54,7 +54,7 @@ files:
 status: Failed
 feedback:
   message: Incorrect
-  time: Wed, 13 Oct 2021 18:04:45 UTC
+  time: Sun, 17 Oct 2021 14:55:01 UTC
   actual: |
     1 Иванов
     2 Васильев

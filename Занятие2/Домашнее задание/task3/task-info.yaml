@@ -11,7 +11,7 @@ files:
       offset: 0
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       a = int(input('Введите число '))
       b = int(input('Введите число '))
@@ -31,6 +31,8 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  time: Sun, 17 Oct 2021 14:12:02 UTC
 record: -1
 post_submission_on_open: true
