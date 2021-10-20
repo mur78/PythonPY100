@@ -3,15 +3,15 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 0
-    length: 113
+  - offset: 14
+    length: 72
     placeholder_text: '...  # TODO используя операторы умножения и сложения сформировать
       список'
     initial_state:
       length: 72
       offset: 14
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Failed
     encrypted_possible_answer: '[0] * 20 + [1] * 50 + [2] * 30'
   text: |
@@ -28,7 +28,7 @@ files:
 status: Failed
 feedback:
   message: Incorrect
-  time: Sun, 17 Oct 2021 14:31:16 UTC
+  time: Wed, 20 Oct 2021 15:10:06 UTC
   actual: |
     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
 record: -1

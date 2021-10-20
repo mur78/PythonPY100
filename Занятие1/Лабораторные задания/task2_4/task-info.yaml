@@ -3,14 +3,14 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 1
-    length: 86
+  - offset: 0
+    length: 41
     placeholder_text: '...  # TODO найти сумму натуральных чисел'
     initial_state:
       length: 41
       offset: 0
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: print(sum(range(-10, 21, 2)))
   text: |
@@ -27,5 +27,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sun, 17 Oct 2021 14:23:22 UTC
+  time: Wed, 20 Oct 2021 15:08:32 UTC
 record: -1

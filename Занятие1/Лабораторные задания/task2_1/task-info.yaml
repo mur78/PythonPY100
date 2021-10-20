@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 83
-    length: 55
+    length: 54
     placeholder_text: '# TODO Каждое из значений печатать на отдельной строке'
     initial_state:
       length: 54
       offset: 83
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: |-
       print(sum(tuple_))
@@ -38,5 +38,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 14 Oct 2021 18:57:29 UTC
+  time: Wed, 20 Oct 2021 15:08:14 UTC
 record: -1

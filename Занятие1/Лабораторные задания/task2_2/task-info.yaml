@@ -10,7 +10,7 @@ files:
       length: 36
       offset: 9
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: print(sum(range(1, N + 1)))
   text: |
@@ -29,5 +29,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 14 Oct 2021 19:50:36 UTC
+  time: Wed, 20 Oct 2021 15:08:20 UTC
 record: -1
