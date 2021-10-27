@@ -9,4 +9,5 @@ def check_string(str_):
 
 if __name__ == "__main__":
     # Write your solution here
-    pass
+    print(check_string('123'))
+    print(check_string('1'))

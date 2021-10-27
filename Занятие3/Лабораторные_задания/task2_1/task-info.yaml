@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 29
-    length: 109
+    length: 136
     placeholder_text: '...  # TODO проверка совпадения строк'
     initial_state:
       length: 37
       offset: 29
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: |-
       if str1[:k] == str2[:k]:
