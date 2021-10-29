@@ -9,3 +9,17 @@ if __name__ == "__main__":
         for col in range(len(matrix[0])):
             print(matrix[row][col], end=" ")
         print()
+
+
+table = [
+    [i*j for j in range(1,10)]
+    for i in range(1,10)
+    ]
+
+for row in range(len(table)):
+    for col in range(len(table[row])):
+        ceil = table[row][col]
+        #print(table[row][col], end=" ")
+        print(f"{ceil:>2}", end=" ")
+    print()
+
